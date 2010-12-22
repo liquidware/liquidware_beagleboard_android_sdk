@@ -28,7 +28,7 @@ final class PlatformTarget implements IAndroidTarget {
     /** String used to get a hash to the platform target */
     private final static String PLATFORM_HASH = "android-%s";
 
-    private final static String PLATFORM_VENDOR = "Android Open Source Project";
+    private final static String PLATFORM_VENDOR = "Liquidware";
 
     private final static String PLATFORM_NAME = "Android %s";
     private final static String PLATFORM_NAME_PREVIEW = "Android %s (Preview)";
